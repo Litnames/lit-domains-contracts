@@ -55,18 +55,18 @@ English auction system for fair distribution of premium domains.
 
 Domain prices are based on length (in USD):
 
-- 1 character: **$420** / year
-- 2 characters:  **$269** / year
-- 3 characters: **$169** / year
-- 4 characters: **$69** / year
-- 5+ characters: **$25** / year
+- 1 character:  Configurable
+- 2 characters: Configurable
+- 3 characters: Configurable
+- 4 characters: Configurable
+- 5+ characters:Configurable
 
 **Multi-year discounts:**
-- 1 year: 0%
-- 2 years: 5%
-- 3 years: 15%
-- 4 years: 30%
-- 5+ years: 40%
+- 1 year: Configurable
+- 2 years: Configurable
+- 3 years: Configurable
+- 4 years: Configurable
+- 5+ years: Configurable
 
 ---
 
